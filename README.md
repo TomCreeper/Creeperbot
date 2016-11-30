@@ -1,11 +1,11 @@
-# Gravebot
+# Creeper
 
 [![Build Status](https://david-dm.org/gravebot/gravebot.svg)](https://david-dm.org/gravebot/gravebot)
 [![Build Status](https://travis-ci.org/Gravebot/Gravebot.svg?branch=master)](https://travis-ci.org/Gravebot/Gravebot)
 [![Coverage Status](https://img.shields.io/coveralls/Gravebot/Gravebot/master.svg)](https://coveralls.io/github/Gravebot/Gravebot?branch=master)
 <a href="https://zenhub.io"><img src="https://img.shields.io/badge/KanBan%20Board-Zenhub.io-blue.svg"></a>
 [![Translations](https://img.shields.io/badge/Translations-Transifex-135d91.svg)](https://www.transifex.com/gravebot/gravebot/)
-[![Discord](https://discordapp.com/api/guilds/128598463947472897/widget.png?style=banner)](https://discord.gg/0iXEgtjdHgkpdsVr)
+[![Creeper's Hangout](https://discordapp.com/api/guilds/245216814399881217/widget.png?style=banner)](https://discord.gg/hr8CCwz)
 ## About
 
 A fantastic, helpful, and fun [Discord](https://discordapp.com/) chat bot! Gravebot comes with a bunch of cool and powerful commands for both Discord and games!
@@ -16,24 +16,24 @@ A fantastic, helpful, and fun [Discord](https://discordapp.com/) chat bot! Grave
 #### Invitation
 The easiest way to set this bot up on your server is to invite it to your Discord server, It is currently hosted 24/7 and will always get the newest features first.
 
-In order to do that, just [click here](https://discordapp.com/oauth2/authorize?&client_id=170664340968570880&scope=bot&permissions=268561430) and choose a server. You need to have **Manage Server** permission on that server. You may remove some of the permissions if you wish, but be warned it may break current and upcoming features.
+In order to do that, just [Click me](https://discordapp.com/oauth2/authorize?scope=bot&client_id=242265456629514240&permissions=2146958399) and choose a server. You need to have **Manage Server** permission on that server. You may remove some of the permissions if you wish, but be warned it may break current and upcoming features.
 
-If you want to give the bot a first try, you may do that in the [Gravebot's Lair](https://discord.gg/0iXEgtjdHgkpdsVr) Discord server.
+If you want to give the bot a first try, you may do that in the [Creeper's Hangout](https://discord.gg/hr8CCwz) Discord server.
 
-If you have any questions, feedback or want to request features, you may also do that by leaving a message in [Gravebot's Lair](https://discord.gg/0iXEgtjdHgkpdsVr), private messaging Gravestorm or Zalik, as well as opening an [issue on Github](https://github.com/Gravebot/Gravebot/issues/new).
+If you have any questions, feedback or want to request features, you may also do that by leaving a message in [Creeper's Hangout](https://discord.gg/hr8CCwz), private messaging Gravestorm or Zalik, as well as opening an [issue on Github](https://github.com/TomCreeper/Creeperbot/issues/new).
 
 For self hosting, click [here](#localconfig).
 
 ## Commands
 #### Help:
-- `!help fun` - List of fun commands
-- `!help useful` - List of useful commands
-- `!help info` - List of information commands
-- `!help games` - List of game commands
-- `!help other` - List of other commands
-- `!help all` - List all available commands in private chat
-- `!memelist` - List of meme names for the `!meme` command
-- `!setlanguage` - Set all help text to respond in a specified language
+- `*help fun` - List of fun commands
+- `*help useful` - List of useful commands
+- `*help info` - List of information commands
+- `*help games` - List of game commands
+- `*help other` - List of other commands
+- `*help all` - List all available commands in private chat
+- `*memelist` - List of meme names for the `!meme` command
+- `*setlanguage` - Set all help text to respond in a specified language
 
 #### Fun:
 - `!8ball` *question* - Answers the question
